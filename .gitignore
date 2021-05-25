@@ -1,0 +1,12 @@
+.idea/
+.ipynb_checkpoints/
+backups/
+coco-annotator/
+coco-split/
+datasets/
+mmcv/
+mmdetection/
+scheme_copy/
+*.gz
+.git/
+
