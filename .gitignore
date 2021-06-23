@@ -2,11 +2,12 @@
 .ipynb_checkpoints/
 backups/
 coco-annotator/
-coco-split/
+cocosplit/
 datasets/
 mmcv/
 mmdetection/
 scheme_copy/
 *.gz
 .git/
+*.gitignore
 
